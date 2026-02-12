@@ -1,5 +1,8 @@
 {
-  "name": "Nexus Games - The Unblocked Portal",
-  "description": "A high-performance, aesthetically pleasing unblocked games portal designed for school environments, featuring category filtering, instant search, and a seamless iframe gaming experience.",
-  "requestFramePermissions": []
+  "name": "Nexus Games - Educational Portal",
+  "description": "A high-performance, aesthetically pleasing portal for educational break-time activities, featuring category filtering, instant search, and a seamless gaming experience.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
 }
